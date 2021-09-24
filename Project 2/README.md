@@ -1,4 +1,5 @@
 Aim: Write a Python program to develop a Rock, Papers and Scissors game to be played against a computer.
+
 Objectives: 
 1.	Understand the environment of the Jupyter Notebook on Anaconda 3.
 2.	Using different cells and comments in the notebook to mention explanations of your program and syntaxes.

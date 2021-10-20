@@ -19,9 +19,11 @@ b.	How many players never played the game after installing it?
 c.	Does the number of players decrease as the levels become difficult?
 3.	Generate crosstab for two player groups to understand the difference in the 1-day and 7-days retention rate and total number of game rounds played.
 4.	Perform two-sample test for groups A and B to test statistical significance amongst the groups in the sum of game rounds played. Here, you can:
+
 ●	Check the assumptions of two sample test:
 i.  Normal distribution – Apply Shapiro test
 ii. Homogeneity of variance – Apply Levene’s test
+
 ●	Apply the relevant two sample significance test method based on the results from the tests for normality and homogeneity
 5.	Analyze the significance of the test results and decide which level has more advantage in terms of player retention?
 6.	Use bootstrap resampling to plot retention rate distribution for both groups to visualize the effect of different versions of the game on retention.
